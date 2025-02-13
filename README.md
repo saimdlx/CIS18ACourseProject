@@ -18,3 +18,6 @@
 # Limitations and special cases 🪲:
 - Due to its early development, the program is limited to creating one ticket at a time, with the user being unable to edit information.
 - The user interface can and will be improved on, through implementation of SwingUI for easier traversal.
+
+# Documentation & Additional Information 🏭:
+[REDIRECT TO PROGRAM DOCUMENTATION.](https://github.com/saimdlx/CIS18ACourseProject/blob/0e0966b3f0bc903599fbea4505f07a07e0b350bc/CIS18A%20Documentation.pdf)
